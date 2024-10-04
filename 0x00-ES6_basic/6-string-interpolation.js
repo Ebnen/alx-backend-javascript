@@ -7,5 +7,4 @@ export default function getSanFranciscoDescription() {
   };
   
     return `San Francisco is a city in the US, the population is 884,363, the year is ${year}, the budget is ${budget.income}, the GDP is ${budget.gdp}, and the capita is ${budget.capita}.`;
-  }
-  
+}
